@@ -1,13 +1,11 @@
 # E-Commerce Customer Behaviour Analysis
 
 ## Project Overview
-End-to-end data analysis project on a UK-based online retail dataset 
-to identify high-value customers, detect churn risk, and uncover 
-revenue trends using RFM segmentation.
+End-to-end data analysis project on a UK-based online retail dataset to identify high-value customers, detect churn risk, and uncover revenue trends using RFM segmentation.
 
 ## Tools Used
 - Python (Pandas, Matplotlib, Seaborn)
-- SQL (SQLite)
+- SQL (SQLite) — 5 analytical queries (see analysis_queries.sql)
 - Power BI
 
 ## Dataset
