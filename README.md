@@ -25,6 +25,11 @@ UCI Online Retail II Dataset — 781,717 clean transactions,
 - `charts/` — EDA visualisations
 - `ECommerce_Customer_Behaviour_Analysis_Report.docx` — Full project report
 
+## Dashboard Preview
+- [Overview](dashboard_page1_overview.png)
+- [Customer Segments](dashboard_page2_segments.png)
+- [Products & Customers](dashboard_page3_products.png)
+
 ## Author
 Krunal Ambarte | MBA (Advanced Business Research) | 
 Narayana Business School, GTU, Ahmedabad
